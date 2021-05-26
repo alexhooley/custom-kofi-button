@@ -1,1 +1,1 @@
-# custom-kofi-button
+# Custom Ko-fi.com Button
